@@ -807,7 +807,7 @@
     "example": "彼は意外とナイーブな性格だ。",
     "id": 90,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "シール (shiiru)",
@@ -834,7 +834,7 @@
     "example": "ミスしてもドンマイ！",
     "id": 93,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "チャレンジ (charenji)",
@@ -852,7 +852,7 @@
     "example": "彼はチームのナンバー1だ。",
     "id": 95,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ハイテンション (haitenshon)",
@@ -861,7 +861,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -960,7 +960,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 107,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -995,7 +995,7 @@
     "explanation": "シール usually means sticker/label. (Set 6)",
     "example": "ノートにシールを貼った。",
     "id": 111,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
