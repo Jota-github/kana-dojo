@@ -366,7 +366,9 @@
     "english": "Carelessness is the greatest enemy",
     "meaning": "Don't let your guard down",
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "baltasarblanco",
+    "completedPR": 12282
   },
   {
     "id": 42,
